@@ -1,0 +1,55 @@
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+	<title>Playlist 3D</title>
+	<style>
+	html, body { margin: 0;	padding: 0; }
+	body { 
+		padding: 10px; 
+		background: #d3d3d3;
+		overflow: hidden; 
+	}
+	</style>
+	<meta name="robots" content="noindex,follow" />
+</head>
+<body>
+	<div class="right" style="display:inline; margin-right=1cm;" id="search">
+		<input class="tftextinput" size="21" maxlength="120" id="query" type="text" placeholder="Banda">
+		<button class="tfbutton" id="button">Search</button>
+		<p></p>
+		<input class="tftextinput" size="21" maxlength="120" id="query2" type="text" placeholder="Genero">
+		<button class="tfbutton" id="buttonquery2">Search</button>
+		<p></p>
+		<button class="button_example" style="padding: 5px 15px;"  id="resetbutton">Reset</button></div>
+
+	<div id="audioIntercept">
+		<div style="display:inline;">
+			<p class="sansserif">Views:
+				<button class="button_example" id="grid">Grid</button>
+				<button class="button_example" id="sphere">Sphere</button>
+				<button class="button_example" id="coverflow">CoverFlow</button>
+			</p>
+		</div>
+		<div class="audio-player" style=" margin:0 auto;">
+			<h1 id="name" name="name"></h1>
+			<img id="image" name="image" class="coverimg" src="" alt="">
+			<audio style="margin-left:120px;width: 280px;height: 120px;" id="audio" name="audio" src="" type="audio/mp3" controls="controls"></audio>
+		</div>
+
+		<div style="margin-top=100px;" id="container"></div>
+
+	</div>
+
+	<link rel="stylesheet" href="css/style.css" media="screen">
+	<script src="https://rawgithub.com/mrdoob/three.js/master/build/three.js"></script>
+	<script src="js/controls/TrackballControls.js"></script>
+	<script src="js/controls/OrbitControls.js"></script>
+	<script src="js/renderers/CSS3DRenderer.js"></script>
+	<script src="js/tween.min.js"></script>
+	<script src="js/dat.gui.min.js"></script>
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
+	<script src="js/mediaelement-and-player.min.js"></script>
+	<script src="js/jsvi.js"></script>
+</body>
+</html>

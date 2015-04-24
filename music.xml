@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+	<music>
+		<banda>Arctic Monkeys</banda>
+		<titulo>Cornerstone</titulo>
+		<image>img/cornerstone.jpg</image>
+		<song>music/mypropeller.mp3</song>
+		<genre>Indie Rock</genre>
+	</music>
+	<music>
+		<banda>Arctic Monkeys</banda>
+		<titulo>Crying Lightning</titulo>
+		<image>img/cryinglighning.jpg</image>
+		<song>music/cryinglightning.mp3</song>
+		<genre>Indie Rock</genre>
+	</music>
+	<music>
+		<banda>Arctic Monkeys</banda>
+		<titulo>Secret Door</titulo>
+		<image>img/secretdoor.jpg</image>
+		<song>music/secretdoor.mp3</song>
+		<genre>Indie Rock</genre>
+	</music>
+	<music>
+		<banda>Arctic Monkeys</banda>
+		<titulo>My Propeller</titulo>
+		<image>img/mypropeller.jpg</image>
+		<song>music/mypropeller.mp3</song>
+		<genre>Indie Rock</genre>
+	</music>
+	<music>
+		<banda>Arctic Monkeys</banda>
+		<titulo>Pretty Visitors</titulo>
+		<image>img/prettyvisitors.jpg</image>
+		<song>music/prettyvisitors.mp3</song>
+		<genre>Indie Rock</genre>
+	</music>
+	<music>
+		<banda>Arctic Monkeys</banda>
+		<titulo>Dance Little Liar</titulo>
+		<image>img/arcticmonkeys.jpg</image>
+		<song>music/dancelittleliar.mp3</song>
+		<genre>Alternative Rock</genre>
+	</music>
+	<music>
+		<banda>Kaiser Chiefs</banda>
+		<titulo>Addicted To Drugs</titulo>
+		<image>img/addicted.jpg</image>
+		<song>music/addictedtodrugs.mp3</song>
+		<genre>Alternative Rock</genre>
+	</music>
+	<music>
+		<banda>Kaiser Chiefs</banda>
+		<titulo>Good Days Bad Days</titulo>
+		<image>img/gooddays.jpg</image>
+		<song>music/gooddaysbaddays.mp3</song>
+		<genre>Alternative Rock</genre>
+	</music>
+	<music>
+		<banda>Kaiser Chiefs</banda>
+		<titulo>Never Miss A Beat</titulo>
+		<image>img/nevermiss.jpg</image>
+		<song>music/nevermissabeat.mp3</song>
+		<genre>Alternative Rock</genre>
+	</music>
+	<music>
+		<banda>Kaiser Chiefs</banda>
+		<titulo>Spanish Metal</titulo>
+		<image>img/spanishmetal.jpg</image>
+		<song>music/spanishmetal.mp3</song>
+		<genre>Alternative Rock</genre>
+	</music>
+	<music>
+		<banda>Kaiser Chiefs</banda>
+		<titulo>Tomato to In The Rain</titulo>
+		<image>img/tomato.jpg</image>
+		<song>music/tomatointherain.mp3</song>
+		<genre>Alternative Rock</genre>
+	</music>
+	<music>
+		<banda>Bod Dylan</banda>
+		<titulo>Blow In Gin The Wind</titulo>
+		<image>img/blow.jpg</image>
+		<song>music/blowinginthewind.mp3</song>
+		<genre>Rock</genre>
+	</music>
+	<music>
+		<banda>Bod Dylan</banda>
+		<titulo>Yesterday</titulo>
+		<image>img/yesterday.jpg</image>
+		<song>music/yesterday.mp3</song>
+		<genre>Rock</genre>
+	</music>
+	<music>
+		<banda>Bob Marley</banda>
+		<titulo>One Love</titulo>
+		<image>img/onelove.jpg</image>
+		<song>music/onelove.mp3</song>
+		<genre>Reggae</genre>
+	</music>
+	<music>
+		<banda>Bob Marley</banda>
+		<titulo>Jamaica Rum</titulo>
+		<image>img/jamaicarum.jpg</image>
+		<song>music/jamaicarum.mp3</song>
+		<genre>Reggae</genre>
+	</music>
+	<music>
+		<banda>Bob Marley</banda>
+		<titulo>Red Red Wine</titulo>
+		<image>img/redred.jpg</image>
+		<song>music/redredwine.mp3</song>
+		<genre>Reggae</genre>
+	</music>
+	<music>
+		<banda>David Fonseca</banda>
+		<titulo>Rocket Man</titulo>
+		<image>img/rocketman.jpg</image>
+		<song>music/rocketman.mp3</song>
+		<genre>Pop rock</genre>
+	</music>
+	<music>
+		<banda>David Fonseca</banda>
+		<titulo>SuperStars</titulo>
+		<image>img/superstars.jpg</image>
+		<song>music/superstars.mp3</song>
+		<genre>Pop rock</genre>
+	</music>
+	<music>
+		<banda>David Fonseca</banda>
+		<titulo>Who Are You</titulo>
+		<image>img/whoareyou.jpg</image>
+		<song>music/whoareyou.mp3</song>
+		<genre>Pop rock</genre>
+	</music>
+	<music>
+		<banda>Foals</banda>
+		<titulo>Cassius</titulo>
+		<image>img/cassius.jpg</image>
+		<song>music/cassius.mp3</song>
+		<genre>Pop rock</genre>
+	</music>
+	<music>
+		<banda>Foals</banda>
+		<titulo>Electric bloom</titulo>
+		<image>img/electricbloom.jpg</image>
+		<song>music/electricbloom.mp3</song>
+		<genre>Pop rock</genre>
+	</music>
+	<music>
+		<banda>Foals</banda>
+		<titulo>Red Socks Pugie</titulo>
+		<image>img/redsocks.jpg</image>
+		<song>music/redsockspugie.mp3</song>
+		<genre>Pop rock</genre>
+	</music>
+	<music>
+		<banda>Foals</banda>
+		<titulo>Olympic Airways</titulo>
+		<image>img/olympic.jpg</image>
+		<song>music/olympicairways.mp3</song>
+		<genre>Pop rock</genre>
+	</music>
+	<music>
+		<banda>Jack Johnson</banda>
+		<titulo>Cheesekake</titulo>
+		<image>img/broken.jpg</image>
+		<song>music/broken.mp3</song>
+		<genre>Folk rock</genre>
+	</music>
+	<music>
+		<banda>Jack Johnson</banda>
+		<titulo>Broken</titulo>
+		<image>img/broken1.jpg</image>
+		<song>music/broken.mp3</song>
+		<genre>Folk rock</genre>
+	</music>
+	<music>
+		<banda>Jack Johnson</banda>
+		<titulo>Flake</titulo>
+		<image>img/flake.jpg</image>
+		<song>music/flake.mp3</song>
+		<genre>Folk rock</genre>
+	</music>
+	<music>
+		<banda>Jack Johnson</banda>
+		<titulo>Better Together</titulo>
+		<image>img/better.jpg</image>
+		<song>music/bettertogether.mp3</song>
+		<genre>Folk rock</genre>
+	</music>
+	<music>
+		<banda>Klaxons</banda>
+		<titulo>Two Receivers</titulo>
+		<image>img/tworeceivers.jpg</image>
+		<song>music/tworeceivers.mp3</song>
+		<genre>Indie</genre>
+	</music>
+	<music>
+		<banda>Klaxons</banda>
+		<titulo>Golden Skans</titulo>
+		<image>img/goldenskans.jpg</image>
+		<song>music/goldenskans.mp3</song>
+		<genre>Indie</genre>
+	</music>
+	<music>
+		<banda>Klaxons</banda>
+		<titulo>Magik</titulo>
+		<image>img/magik.jpg</image>
+		<song>music/magick.mp3</song>
+		<genre>Indie</genre>
+	</music>
+</list>
